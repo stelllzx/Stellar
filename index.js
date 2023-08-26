@@ -12,3 +12,7 @@ let isApproved = true; // Boolean Literal
 let className = null;
 let mentorname = 'racheal';
 console.log(mentorname);
+let password = 'cat';
+console.log(password);
+let integer = 10;
+let person = ['stella' ,'simple',10,15,5];
