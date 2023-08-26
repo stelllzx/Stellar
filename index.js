@@ -10,3 +10,5 @@ console.log(intrestRate);
 let age = 30; // Number Literal
 let isApproved = true; // Boolean Literal
 let className = null;
+let mentorname = 'racheal';
+console.log(mentorname);
